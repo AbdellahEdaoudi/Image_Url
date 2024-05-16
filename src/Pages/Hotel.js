@@ -13,6 +13,7 @@ function Hotel() {
             <img src='./rooms/r7.jpg' width={300} height={100} className='rounded-md' />
             <img src='./rooms/r8.jpg' width={300} height={100} className='rounded-md' />
             <img src='./rooms/bg.jpg' width={300} height={100} className='rounded-md' />
+            <img src='./Logo-my-hotel-app.jpg' width={300} height={100} className='rounded-md' />
         </div>
     </div>
   )
